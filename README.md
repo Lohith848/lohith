@@ -1,4 +1,4 @@
-# Birthday wish to your ❤️ one's 
+# Birthday wish
 
 ## Project Description
 
@@ -6,11 +6,11 @@ Birthday Wish is a simple and interactive web application designed to send perso
 
 ## Features
 
-- 🎉 **Interactive Birthday Wishes** - Send personalized birthday messages
-- 💝 **Beautiful UI** - Clean and attractive design for a memorable experience
-- 💌 **Easy to Use** - Simple interface for users of all ages
-- 🎨 **Customizable Messages** - Create unique wishes for special people
-- ⚡ **Fast and Lightweight** - Quick loading times and smooth performance
+- **Interactive Birthday Wishes** - Send personalized birthday messages
+- **Beautiful UI** - Clean and attractive design for a memorable experience
+- **Easy to Use** - Simple interface for users of all ages
+- **Customizable Messages** - Create unique wishes for special people
+- **Fast and Lightweight** - Quick loading times and smooth performance
 
 ## Installation
 
